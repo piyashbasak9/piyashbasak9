@@ -15,6 +15,10 @@
 
 <br>
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ## 🏆 Competitive Programming
 
 - 🔹 Solved **3500+ DSA Problems**
@@ -23,7 +27,11 @@
 - 🔹 **AtCoder** Max Rating: 1230
 - 🔹 Solved 100+ SQL Problems on LeetCode & HackerRank
 
-### 🥇 ICPC & Contest Achievements
+</td>
+
+<td valign="top" width="50%">
+
+## 🥇 ICPC & Contest Achievements
 
 - 🏅 ICPC Asia West Continental Finalist (2025–2026)
 - 🏅 21st among 1800+ teams — ICPC Dhaka Regional Preliminary 2025
@@ -32,7 +40,15 @@
 - 🏅 14th — MU IUPC 2025
 - 🏅 21st — DUET IUPC 2025
 
+</td>
+</tr>
+</table>
+
 <br>
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ## 💻 Tech Stack
 
@@ -48,10 +64,14 @@
   <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,mysql" />
 </p>
 
-### 🤖 AI / ML
+</td>
+
+<td valign="top" width="50%">
+
+## 🤖 AI / ML & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,linux,vscode,postman" />
 </p>
 
 - RAG Systems  
@@ -60,11 +80,9 @@
 - YOLOv8  
 - Agentic AI  
 
-### 🛠 Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
