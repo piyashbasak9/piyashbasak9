@@ -76,7 +76,7 @@
 ## 🤖 AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter,anaconda" />
 </p>
 
 - Machine Learning Models  
