@@ -76,11 +76,12 @@
 ## 🤖 AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter,anaconda" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
 - Machine Learning Models  
-- Deep Learning  
+- Deep Learning (CNN, RNN, Transformers)  
+- Computer Vision  
 - RAG Systems  
 - Vector Databases  
 - Agentic AI  
@@ -126,9 +127,9 @@
 <table>
 <tr>
 
-<td valign="top" width="50%">
-
 ## 🎯 Current Focus
+
+<td valign="top" width="50%">
 
 - Backend Engineering  
 - AI-powered Applications  
