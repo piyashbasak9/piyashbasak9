@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-🎓 Software Engineering Student at Daffodil International University  
+🎓 Software Engineering Graduate from Daffodil International University  
 🏆 ICPC Asia West Continental Finalist  
 💻 Competitive Programmer with 3500+ solved problems  
 ⚡ Codeforces Expert & CodeChef 4★  
@@ -53,15 +53,13 @@
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js" />
 </p>
 
 ### ⚙️ Backend & Database
-
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,mysql" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,mysql" />
 </p>
 
 </td>
@@ -71,35 +69,19 @@
 ## 🤖 AI / ML & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,linux,vscode,postman" />
 </p>
 
+- Machine Learning Models  
+- Deep Learning  
 - RAG Systems  
 - Vector Database  
-- Deep Learning  
 - YOLOv8  
 - Agentic AI  
 
 </td>
 </tr>
 </table>
-
----
-
-## 📌 Featured Projects
-
-### 🔹 AI Powered Support System
-> AI chatbot using RAG, Gemini API, Pinecone VectorDB & FastAPI.  
-> Supports PDF querying, OCR, automated ticket creation & admin dashboard.
-
-### 🔹 Ride Sharing Project
-> Ride-sharing platform for Dhaka city passengers to split rickshaw/CNG fares efficiently.
-
-### 🔹 CP Functions
-> Competitive programming algorithms & data structures library for contests.
-
-### 🔹 Traffic Sign Detection Research
-> Optimized YOLOv8 architecture for robust traffic sign detection with 93.7% mAP@0.5.
 
 ---
 
@@ -124,13 +106,31 @@
 
 ---
 
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
 ## 🎯 Current Focus
 
 - Backend Engineering  
 - AI-powered Applications  
-- Machine Learning Research  
 - Competitive Programming  
+
+</td>
+
+<td valign="top" width="50%">
+
+<br><br>
+
+- Machine Learning Research  
 - System Design  
+- Scalable Backend Systems  
+
+</td>
+
+</tr>
+</table>
 
 ---
 
