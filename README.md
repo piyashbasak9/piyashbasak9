@@ -62,16 +62,11 @@
 <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js" />
 </p>
 
-</td>
-
-<td valign="top" width="33%">
-
 ## ⚙️ Backend & Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,django,mysql" />
 </p>
-
 </td>
 
 <td valign="top" width="33%">
