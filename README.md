@@ -93,7 +93,7 @@
 ## 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm,postman" />
+<img src="https://skillicons.dev/icons?i=github,linux,vscode,pycharm,postman" />
 </p>
 
 </td>
@@ -127,10 +127,12 @@
 <table>
 <tr>
 
-## 🎯 Current Focus
+
 
 <td valign="top" width="50%">
-
+  
+## 🎯 Current Focus
+  
 - Backend Engineering  
 - AI-powered Applications  
 - Competitive Programming  
