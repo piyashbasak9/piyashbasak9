@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Piyash Basak</h1>
 <!-- <h3 align="center">ICPC Asia West Continental Finalist | Codeforces Expert | Backend & AI/ML Enthusiast</h3> -->
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+---
+
+<!-- <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
 ## 🚀 About Me
 
