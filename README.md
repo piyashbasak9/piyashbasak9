@@ -52,34 +52,57 @@
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Languages
+<table>
+<tr>
+<td valign="top" width="33%">
+
+## 👨‍💻 Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js" />
 </p>
 
-### ⚙️ Backend & Database
+</td>
+
+<td valign="top" width="33%">
+
+## ⚙️ Backend & Database
+
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,mysql" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,mysql" />
 </p>
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-## 🤖 AI / ML & Tools
+## 🤖 AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 - Machine Learning Models  
 - Deep Learning  
 - RAG Systems  
-- Vector Database  
-- YOLOv8  
+- Vector Databases  
 - Agentic AI  
 
 </td>
+</tr>
+
+<tr>
+
+<td valign="top" width="33%">
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm,postman" />
+</p>
+
+</td>
+
 </tr>
 </table>
 
