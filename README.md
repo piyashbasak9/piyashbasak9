@@ -54,6 +54,7 @@
 
 <table>
 <tr>
+
 <td valign="top" width="33%">
 
 ## 👨‍💻 Languages
@@ -67,6 +68,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,django,mysql" />
 </p>
+
 </td>
 
 <td valign="top" width="33%">
@@ -84,9 +86,6 @@
 - Agentic AI  
 
 </td>
-</tr>
-
-<tr>
 
 <td valign="top" width="33%">
 
