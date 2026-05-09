@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyash Basak</h1>
-<h3 align="center">ICPC Asia West Continental Finalist | Codeforces Expert | Backend & AI/ML Enthusiast</h3>
+<!-- <h3 align="center">ICPC Asia West Continental Finalist | Codeforces Expert | Backend & AI/ML Enthusiast</h3> -->
 
 ---
 
@@ -87,10 +87,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=piyashbasak9&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyashbasak9&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyashbasak9&theme=tokyonight&hide_border=true" />
