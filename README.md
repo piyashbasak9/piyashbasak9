@@ -80,7 +80,7 @@
 </p>
 
 - Machine Learning Models  
-- Deep Learning (CNN, RNN, Transformers)  
+- Deep Learning 
 - Computer Vision  
 - RAG Systems  
 - Vector Databases  
