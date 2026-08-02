@@ -40,10 +40,10 @@
 <br>
 
 ## 💼 Currently @ Divine IT
-- 🔧 Developing backend business logic and RESTful APIs for the **Prism ERP** platform
-- 🩹 Diagnosed and refactored the **LC (Letter of Credit)** module, resolving major structural issues
-- 🔄 Solved a critical **MySQL → PostgreSQL migration** issue by engineering a custom query function replicating MySQL's implicit `GROUP BY` behavior
-- ⚙️ Designed a customer-configurable, formula-based system for dropdown value formatting
+- 🤝 Collaborating across multiple modules of the **Prism ERP** platform, picking up how a real-world ERP is structured end to end
+- 📚 Learning the business logic behind ERP workflows — how processes like LC (Letter of Credit) actually work under the hood
+- 🧩 Working through backend problems as they come — from database quirks to API design
+- ⚙️ Contributing to configurable, client-facing features that make the system more flexible
 <br>
 
 ## 💻 Tech Stack
