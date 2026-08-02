@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Piyash Basak</h1>
 <h3 align="center">ICPC Asia West Continental Finalist | Codeforces Expert | Backend & AI/ML Enthusiast</h3>
+
+---
+
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🚀 About Me
@@ -43,28 +46,25 @@
 - ⚙️ Designed a customer-configurable, formula-based system for dropdown value formatting
 <br>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 ## 💻 Tech Stack
+
 <table>
 <tr>
 <td valign="top" width="33%">
 
-## 👨‍💻 Languages
+### 👨‍💻 Languages
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js" />
 </p>
 
-## ⚙️ Backend & Database
+### ⚙️ Backend & Database
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,django,mysql,postgres" />
 </p>
 </td>
 <td valign="top" width="33%">
 
-## 🤖 AI / ML
+### 🤖 AI / ML
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
@@ -77,14 +77,16 @@
 </td>
 <td valign="top" width="33%">
 
-## 🛠 Tools
+### 🛠 Tools
 <p>
 <img src="https://skillicons.dev/icons?i=github,linux,vscode,pycharm,postman,redis" />
 </p>
 </td>
 </tr>
 </table>
+
 ---
+
 <!--
 ## 📊 GitHub Stats
  <p align="center">
@@ -100,6 +102,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyashbasak9&theme=tokyo-night" />
 </p>
 -->
+
 ---
 
 <table>
@@ -120,7 +123,9 @@
 </td>
 </tr>
 </table>
+
 ---
+
 ## 🌐 Connect With Me
 <p align="left">
 <a href="https://github.com/piyashbasak9" target="blank">
@@ -133,5 +138,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
+
 ---
+
 <h3 align="center">💡 Exploring Intelligent Solutions Through Code</h3>
